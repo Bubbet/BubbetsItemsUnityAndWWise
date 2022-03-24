@@ -1,0 +1,206 @@
+ManifestFileVersion: 0
+CRC: 3956988589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35144c067310feee52a99efec58eea4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c8f7d8aa30f169135c772c187d9f6c91
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 488236779, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 1929002847, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+- Class: 114
+  Script: {fileID: 511512695, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 372142912, guid: d382a022563c7517aadbc92ca1060016, type: 3}
+- Class: 114
+  Script: {fileID: -1783169300, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -960361785, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -585069481, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1512808244, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1284244208, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: 1985007777, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -662483879, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
+  Script: {fileID: -1548970870, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+- Class: 114
+  Script: {fileID: 209865009, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+- Class: 114
+  Script: {fileID: -1977327981, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+- Class: 114
+  Script: {fileID: -1474783733, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+- Class: 114
+  Script: {fileID: 1684185445, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/BuffDefSepia.asset
+- Assets/BubbetsItems/Assets/Items/EscapePlan/PlanBlank.png
+- Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/zealotryEmbraceDiffuse.png
+- Assets/BubbetsItems/Assets/Items/EscapePlan/WoodMaterial.mat
+- Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionBullets.png
+- Assets/BubbetsItems/Assets/Items/EscapePlan/ItemDefEscapePlan.asset
+- Assets/BubbetsItems/Assets/Items/RecursionBullets/BuffDefRecursionBullets.asset
+- Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionShellsDiffuse.png
+- Assets/BubbetsItems/Assets/Bandolier/TrailShader.shader
+- Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/voidscrap.fbx
+- Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/Belt.png
+- Assets/BubbetsItems/Assets/Items/JelliedSoles/JelliedSolesMat.mat
+- Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionBullets.prefab
+- Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/GEMO_ZealotryEmbrace.png
+- Assets/BubbetsItems/Assets/Items/Torturer/TorturerMaterial.mat
+- Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/VoidScrapMaterial.mat
+- Assets/BubbetsItems/Assets/Items/SubmergingCistern/SubmersiveCisternTetherVfx.prefab
+- Assets/BubbetsItems/Assets/Equipment/BrokenClock/BrokenClockPickup.prefab
+- Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/ItemDefZealotryEmbrace.asset
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/CameraTarget.png
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/CameraIndicator.prefab
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/CameraTexture.png
+- Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/zealotryEmbraceEmission.png
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/ShiftedQuartzPickup.prefab
+- Assets/BubbetsItems/Assets/Items/JelliedSoles/jelliedSolesEmission.png
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/FarDamageBonusIndicator.prefab
+- Assets/BubbetsItems/Assets/Items/Hourglass/Hourglass128.png
+- Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/VoidEffect.mat
+- Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionBullets.fbx
+- Assets/BubbetsItems/Assets/Items/Hourglass/Hourglass.fbx
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/Materials/transparentShifted.mat
+- Assets/BubbetsItems/Assets/LogBookGraphnew.prefab
+- Assets/BubbetsItems/Assets/Items/JelliedSoles/JelliedSolesPickup.prefab
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/shiftedQuartz.fbx
+- Assets/BubbetsItems/Assets/Items/Torturer/Torturer128Update.png
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/EliteDefSepia.asset
+- Assets/BubbetsItems/Assets/Items/Hourglass/Hourglass.prefab
+- Assets/BubbetsItems/Assets/Bandolier/BandolierOrbShader.shader
+- Assets/BubbetsItems/Assets/Items/EscapePlan/BuffDefEscapePlan.asset
+- Assets/BubbetsItems/Assets/Items/RecursionBullets/RecursionBulletsMaterial.mat
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/shiftedQuartzDiffuse.png
+- Assets/BubbetsItems/Assets/Items/SubmergingCistern/CisternMat.mat
+- Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/ItemDefRepulsionPlateMk2.asset
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/WLCam.png
+- Assets/BubbetsItems/Assets/Items/Hourglass/SandFluidShader.shader
+- Assets/BubbetsItems/Assets/Items/JelliedSoles/ItemDefJelliedSoles.asset
+- Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/ItemDefVoidJunkToScrapTier1.asset
+- Assets/BubbetsItems/Assets/Bandolier/AmmoPickupOrb.prefab
+- Assets/BubbetsItems/Assets/Items/SubmergingCistern/SubmergingCisternPickup.prefab
+- Assets/BubbetsItems/Assets/Items/SubmergingCistern/CisternTransparent.mat
+- Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/zealotryEmbrace.prefab
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/shiftedQuartz.prefab
+- Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/zealotryEmbrace.fbx
+- Assets/BubbetsItems/Assets/Items/JelliedSoles/GEMO_JelliedSoles.png
+- Assets/BubbetsItems/Assets/Equipment/LunarFlipHealthAndDamage/EquipmentDefLunarFlipHealingAndDamage.asset
+- Assets/BubbetsItems/Assets/Bandolier/BandolierOrbMaterial.mat
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/RadiusMaterial.mat
+- Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/ScrapBox.png
+- Assets/BubbetsItems/Assets/Items/JelliedSoles/jelliedSolesDiffuse.png
+- Assets/BubbetsItems/Assets/Items/SubmergingCistern/submergedCisternTexture.png
+- Assets/BubbetsItems/Assets/Items/SubmergingCistern/SubmersiveCisternNetworkBodyAttachment.prefab
+- Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/BeltMaterial.mat
+- Assets/BubbetsItems/Assets/Items/SubmergingCistern/ItemDefSubmergingCistern.asset
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/EquipmentDefWildlifeCamera.asset
+- Assets/BubbetsItems/Assets/Items/Torturer/ItemDefTorturer.asset
+- Assets/BubbetsItems/Assets/LogBookGraph.prefab
+- Assets/BubbetsItems/Assets/Items/RecursionBullets/ItemDefRecursionBullets.asset
+- Assets/BubbetsItems/Assets/Items/EscapePlan/Plan128.png
+- Assets/BubbetsItems/Assets/Items/Torturer/TorturerUpdatedShader.shader
+- Assets/BubbetsItems/Assets/Items/Hourglass/Pain.shader
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/GEMO_shiftedQuartzRender.png
+- Assets/BubbetsItems/Assets/Items/SubmergingCistern/submergedCistern.prefab
+- Assets/BubbetsItems/Assets/Bandolier/BandolierTrailMaterial.mat
+- Assets/BubbetsItems/Assets/Items/Hourglass/sand.jpg
+- Assets/BubbetsItems/Assets/Equipment/BrokenClock/Clock.fbx
+- Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/VoidJunkToScrapPickup.prefab
+- Assets/BubbetsItems/Assets/Items/RecursionBullets/Rec.png
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/ItemDefShiftedQuartz.asset
+- Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/ZealotryEmbracePickup.prefab
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/EquipmentDefSepiaElite.asset
+- Assets/BubbetsItems/Assets/Items/JelliedSoles/jelliedSoles.fbx
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/Camera.fbx
+- Assets/BubbetsItems/Assets/Items/RecursionBullets/RecursionBulletsPickup.prefab
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/Materials/Crystal Shader.shader
+- Assets/BubbetsItems/Assets/Items/SubmergingCistern/GEMO_SubmergedCistern.png
+- Assets/BubbetsItems/Assets/Items/SubmergingCistern/submergedCisternEmission.png
+- Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/PlateMaterial.mat
+- Assets/BubbetsItems/Assets/Items/Torturer/TorturerShader.shader
+- Assets/BubbetsItems/Assets/Items/JelliedSoles/jelliedSoles.prefab
+- Assets/BubbetsItems/Assets/Items/VoidScrapTier3/ItemDefVoidScrapTier3.asset
+- Assets/BubbetsItems/Assets/Equipment/BrokenClock/ClockTexture.png
+- Assets/BubbetsItems/Assets/Items/EscapePlan/EscapePlanPickup.prefab
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/IntersectionShader.shader
+- Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/ZealotryEmbraceMaterial.mat
+- Assets/BubbetsItems/Assets/Items/ShiftedQuartz/Materials/shiftedQuartzDiffuse 1.mat
+- Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/RepulsionPlatemk2.fbx
+- Assets/BubbetsItems/Assets/Items/Hourglass/HourGlassPickup.prefab
+- Assets/BubbetsItems/Assets/Items/SubmergingCistern/submergedCistern.fbx
+- Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/voidscrap.prefab
+- Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/Plate128.png
+- Assets/BubbetsItems/Assets/Items/Torturer/Torturer.fbx
+- Assets/BubbetsItems/Assets/Items/EscapePlan/EscapePlan.fbx
+- Assets/BubbetsItems/Assets/Items/Hourglass/SandMaterial.mat
+- Assets/BubbetsItems/Assets/Equipment/BrokenClock/EquipmentDefBrokenClock.asset
+- Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/VoidScrapShader.shader
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/SepiaMaterial.mat
+- Assets/BubbetsItems/Assets/Equipment/BrokenClock/Materials/ClockTexture.mat
+- Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/voidscrap.png
+- Assets/BubbetsItems/Assets/Equipment/BrokenClock/BrokenClock.png
+- Assets/BubbetsItems/Assets/Items/Torturer/Mask.png
+- Assets/BubbetsItems/Assets/Items/Hourglass/ItemDefHourglass.asset
+- Assets/BubbetsItems/Assets/Items/Torturer/TorturerPickup.prefab
+- Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/RepulsionPlatePickup.prefab
+- Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/vortex.png
+- Assets/BubbetsItems/Assets/MainContentPack.asset
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/SepiaShader.shader
+- Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/WildLifeCameraPickup.prefab
+- Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/BuckleMaterial.mat
+Dependencies: []

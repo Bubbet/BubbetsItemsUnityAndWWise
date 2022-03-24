@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1284244208, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+  m_Name: ItemDefSubmergingCistern
+  m_EditorClassIdentifier: 
+  tier: 9
+  nameToken: BUB_SUBMERGINGCISTERN_NAME
+  pickupToken: BUB_SUBMERGINGCISTERN_PICKUP
+  descriptionToken: BUB_SUBMERGINGCISTERN_DESC
+  loreToken: BUB_SUBMERGINGCISTERN_LORE
+  unlockableDef: {fileID: 0}
+  pickupModelPrefab: {fileID: 7425267750568300265, guid: 68187aa60e3e34642a52f24ceb750824,
+    type: 3}
+  pickupIconSprite: {fileID: 21300000, guid: 09b5572c3e22f6b44a72a73d9b9b4304, type: 3}
+  hidden: 0
+  canRemove: 1
+  tags: 02000000
+  requiredExpansion: {fileID: 0}

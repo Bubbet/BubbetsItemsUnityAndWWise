@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B142869E-84D6-4AEF-A6CD-52600D4296C6}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{B142869E-84D6-4AEF-A6CD-52600D4296C6}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="WildlifeCamera_TakePicture" ID="{BD372DF4-4E98-40C0-AA33-A2E4C6B9DEF6}">
+					<ChildrenList>
+						<Action Name="" ID="{6158AF39-5E92-48A4-BE92-0D77B924CE9E}" ShortID="835097462">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="353044__montclairguy__camera-shutter-and-flash-combined" ID="{15BE8AA6-A255-4EF2-A9D4-5C317FB5457F}" WorkUnitID="{B6D05C81-A6E3-4339-AD01-89B7F0C01A6F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="WildlifeCamera_Success" ID="{24451AB9-2A84-4CDA-9FEB-3BF01D59D81A}">
+					<ChildrenList>
+						<Action Name="" ID="{BBC51B06-68E0-4545-8548-FEEF81EB5ED8}" ShortID="945090535">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="441929__180149__laminated-paper-variation" ID="{0FB0F1A6-B96D-43D6-B79E-A852E8F5EEF5}" WorkUnitID="{B6D05C81-A6E3-4339-AD01-89B7F0C01A6F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="BrokenClock_Start" ID="{798DA819-FC35-43BC-9B18-0DDBE5E96455}">
+					<ChildrenList>
+						<Action Name="" ID="{58E7D49E-FC85-4462-9021-8F155A8369C7}" ShortID="428609513">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="171043__st303__mechanical-alarm-clock-is-ticking-slava" ID="{9BD5A1D9-887B-44F9-A83B-6E8422CBA4E7}" WorkUnitID="{B6D05C81-A6E3-4339-AD01-89B7F0C01A6F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="BrokenClock_Break" ID="{62385D51-5AB5-4339-A24C-43D58238AD4C}">
+					<ChildrenList>
+						<Action Name="" ID="{961BC758-5EE9-470C-84CB-B7EA45FD28FD}" ShortID="869897767">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="171043__st303__mechanical-alarm-clock-is-ticking-slava" ID="{9BD5A1D9-887B-44F9-A83B-6E8422CBA4E7}" WorkUnitID="{B6D05C81-A6E3-4339-AD01-89B7F0C01A6F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

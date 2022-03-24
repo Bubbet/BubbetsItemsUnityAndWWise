@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{67826853-67E4-4447-A30B-73D119FCA373}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{67826853-67E4-4447-A30B-73D119FCA373}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="BubbetsItems" ID="{5C0CF3EC-4BE7-49FB-9245-D4F7FC60730C}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Default Work Unit" ID="{B142869E-84D6-4AEF-A6CD-52600D4296C6}" WorkUnitID="{B142869E-84D6-4AEF-A6CD-52600D4296C6}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

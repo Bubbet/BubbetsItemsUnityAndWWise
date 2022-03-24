@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 209865009, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+  m_Name: MainContentPack
+  m_EditorClassIdentifier: 
+  bodyPrefabs: []
+  masterPrefabs: []
+  projectilePrefabs: []
+  gameModePrefabs: []
+  networkedObjectPrefabs:
+  - {fileID: 6609166930920470416, guid: a8fef0e3592cebb4fad925b2f7c76830, type: 3}
+  - {fileID: 5844214702143439688, guid: 29dff1a872149a741b5e8f048a2252bf, type: 3}
+  - {fileID: 177840155180844271, guid: 648e71c2055f9a1409361045b5d90df2, type: 3}
+  skillDefs: []
+  skillFamilies: []
+  sceneDefs: []
+  itemDefs:
+  - {fileID: 11400000, guid: 5805b701086ce4848bbb20954564e4f9, type: 2}
+  - {fileID: 11400000, guid: dc2ac99f24cf3a643ad4dbb7f9689df2, type: 2}
+  - {fileID: 11400000, guid: 635faeb5c00a8504e84e5959c51f8b1c, type: 2}
+  - {fileID: 11400000, guid: fbafe139c4d3e614b97957b27f91a8d6, type: 2}
+  - {fileID: 11400000, guid: 2c9fc826310c15743bba53fc2f83645b, type: 2}
+  - {fileID: 11400000, guid: 9669bb0d829acba47b61221829d05a40, type: 2}
+  - {fileID: 11400000, guid: 4695905bc14fc2a43a018285fa3f4d2c, type: 2}
+  - {fileID: 11400000, guid: e2940cc21b37df249ae00e7cf1e52fa7, type: 2}
+  - {fileID: 11400000, guid: e0af0ef5839eae34fa0ce4d50e380833, type: 2}
+  - {fileID: 11400000, guid: 32d9d6c8f88ab5846add30c6d523e75b, type: 2}
+  - {fileID: 11400000, guid: e07bcb7906c08504b9bf172e16d47553, type: 2}
+  equipmentDefs:
+  - {fileID: 11400000, guid: 505b4afdd73f4e449bcf5758c79909e6, type: 2}
+  - {fileID: 11400000, guid: 8a4386d8dc5407a4aa80f174e1eb83ca, type: 2}
+  - {fileID: 11400000, guid: 3c60bd8b035defb449d79c5ce641ab65, type: 2}
+  - {fileID: 11400000, guid: 265d6a57fd8ae6c45a0d6c8ea9536846, type: 2}
+  buffDefs:
+  - {fileID: 11400000, guid: 3907cc15d8ef81245ac34499b169bda9, type: 2}
+  - {fileID: 11400000, guid: 6dca2e40e868d684eb221b44dec8c574, type: 2}
+  - {fileID: 11400000, guid: 9c5b1431f3ae29e448459e763b62a38e, type: 2}
+  eliteDefs:
+  - {fileID: 11400000, guid: 8041c2f44dfa49346aa7f61d160f9c18, type: 2}
+  unlockableDefs: []
+  survivorDefs: []
+  artifactDefs: []
+  effectDefs: []
+  surfaceDefs: []
+  networkSoundEventDefs: []
+  musicTrackDefs: []
+  gameEndingDefs: []
+  entityStateConfigurations: []
+  entityStateTypes: []
+  expansionDefs: []
+  itemRelationshipTypes: []
+  itemRelationshipProviders: []

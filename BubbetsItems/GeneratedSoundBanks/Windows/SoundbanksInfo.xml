@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>D:\Documents\WwiseProjects\BubbetsItems\</ProjectRoot>
+		<SourceFilesRoot>D:\Documents\WwiseProjects\BubbetsItems\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Documents\WwiseProjects\BubbetsItems\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Documents\WwiseProjects\BubbetsItems\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3791779620">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2770059284" Language="SFX" Hash="1638099613">
+			<ObjectPath>\SoundBanks\Default Work Unit\BubbetsItems</ObjectPath>
+			<ShortName>BubbetsItems</ShortName>
+			<Path>BubbetsItems.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4248163672" Name="BrokenClock_Break" ObjectPath="\Events\Default Work Unit\BrokenClock_Break"/>
+				<Event Id="307722581" Name="BrokenClock_Start" ObjectPath="\Events\Default Work Unit\BrokenClock_Start">
+					<IncludedMemoryFiles>
+						<File Id="469204133" Language="SFX">
+							<ShortName>171043__st303__mechanical-alarm-clock-is-ticking-slava.wav</ShortName>
+							<Path>SFX\171043__st303__mechanical-alarm-clock-is-ticking-slava_291FAEE5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2116437630" Name="WildlifeCamera_Success" ObjectPath="\Events\Default Work Unit\WildlifeCamera_Success">
+					<IncludedMemoryFiles>
+						<File Id="595308455" Language="SFX">
+							<ShortName>441929__180149__laminated-paper-variation.wav</ShortName>
+							<Path>SFX\441929__180149__laminated-paper-variation_FAB3CB25.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2237372754" Name="WildlifeCamera_TakePicture" ObjectPath="\Events\Default Work Unit\WildlifeCamera_TakePicture">
+					<IncludedMemoryFiles>
+						<File Id="1005715064" Language="SFX">
+							<ShortName>353044__montclairguy__camera-shutter-and-flash-combined.wav</ShortName>
+							<Path>SFX\353044__montclairguy__camera-shutter-and-flash-combined_FA21C255.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
