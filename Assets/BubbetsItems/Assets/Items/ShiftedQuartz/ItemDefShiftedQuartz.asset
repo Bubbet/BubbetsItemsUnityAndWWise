@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1284244208, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+  m_Script: {fileID: -1565516458, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
   m_Name: ItemDefShiftedQuartz
   m_EditorClassIdentifier: 
   tier: 6
@@ -25,3 +25,5 @@ MonoBehaviour:
   canRemove: 1
   tags: 01000000
   requiredExpansion: {fileID: 0}
+  displayModelPrefab: {fileID: 6813725937568571313, guid: be2fcb27a0fabd546afa21442fa1c8f1,
+    type: 3}

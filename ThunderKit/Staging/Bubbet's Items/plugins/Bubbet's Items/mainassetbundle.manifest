@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3956988589
+CRC: 4250240842
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 35144c067310feee52a99efec58eea4b
+    Hash: c6340fb3d2e7c6662fe60bbee5013d31
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c8f7d8aa30f169135c772c187d9f6c91
+    Hash: 8eb94f71d7a44f26859c0fa7960f263e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -52,8 +52,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1512808244, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
-  Script: {fileID: -1284244208, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
-- Class: 114
   Script: {fileID: 1985007777, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
   Script: {fileID: -662483879, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
@@ -67,6 +65,10 @@ ClassTypes:
   Script: {fileID: -1474783733, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
 - Class: 114
   Script: {fileID: 1684185445, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+- Class: 114
+  Script: {fileID: -1565516458, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+- Class: 114
+  Script: {fileID: 1085696314, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 137
@@ -109,6 +111,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/CameraTexture.png
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/zealotryEmbraceEmission.png
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/ShiftedQuartzPickup.prefab
+- Assets/BubbetsItems/Assets/Equipment/BrokenClock/Clock.prefab
 - Assets/BubbetsItems/Assets/Items/JelliedSoles/jelliedSolesEmission.png
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/FarDamageBonusIndicator.prefab
 - Assets/BubbetsItems/Assets/Items/Hourglass/Hourglass128.png
@@ -190,6 +193,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/Hourglass/SandMaterial.mat
 - Assets/BubbetsItems/Assets/Equipment/BrokenClock/EquipmentDefBrokenClock.asset
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/VoidScrapShader.shader
+- Assets/BubbetsItems/Assets/Items/Torturer/Torturer.prefab
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/SepiaMaterial.mat
 - Assets/BubbetsItems/Assets/Equipment/BrokenClock/Materials/ClockTexture.mat
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/voidscrap.png

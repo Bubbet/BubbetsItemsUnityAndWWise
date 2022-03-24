@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1284244208, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+  m_Script: {fileID: -1565516458, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
   m_Name: ItemDefRecursionBullets
   m_EditorClassIdentifier: 
   tier: 6
@@ -25,3 +25,5 @@ MonoBehaviour:
   canRemove: 1
   tags: 03000000
   requiredExpansion: {fileID: 0}
+  displayModelPrefab: {fileID: 7693701597951606465, guid: 8845846270755fd4ea6885950ac9c21a,
+    type: 3}

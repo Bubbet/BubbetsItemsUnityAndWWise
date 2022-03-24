@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1512808244, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+  m_Script: {fileID: 1085696314, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
   m_Name: EquipmentDefWildlifeCamera
   m_EditorClassIdentifier: 
   pickupModelPrefab: {fileID: 1007164799298110034, guid: 5cc959ef967c61e42a31d2078d64fa59,
@@ -33,3 +33,4 @@ MonoBehaviour:
   appearsInMultiPlayer: 1
   requiredExpansion: {fileID: 0}
   mageElement: 0
+  displayModelPrefab: {fileID: 100000, guid: d950a79ba38b7d64984e8875eeed4d84, type: 3}

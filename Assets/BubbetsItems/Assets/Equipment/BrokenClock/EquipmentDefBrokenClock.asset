@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1512808244, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+  m_Script: {fileID: 1085696314, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
   m_Name: EquipmentDefBrokenClock
   m_EditorClassIdentifier: 
   pickupModelPrefab: {fileID: 2727836459090884659, guid: 0653e7c22600fe64787e2583dc1711ee,
@@ -33,3 +33,5 @@ MonoBehaviour:
   appearsInMultiPlayer: 1
   requiredExpansion: {fileID: 0}
   mageElement: 0
+  displayModelPrefab: {fileID: 516743857175988798, guid: cae223c385ffb8642808f6951ee9af99,
+    type: 3}
