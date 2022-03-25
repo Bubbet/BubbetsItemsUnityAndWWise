@@ -25,4 +25,5 @@ MonoBehaviour:
   canRemove: 1
   tags: 
   requiredExpansion: {fileID: 0}
-  displayModelPrefab: {fileID: 100000, guid: f79b7cdda05cc7949a0d21bd7eee2cf9, type: 3}
+  displayModelPrefab: {fileID: 6666154628739191724, guid: 35297a6945706714f9242fcd19af211b,
+    type: 3}

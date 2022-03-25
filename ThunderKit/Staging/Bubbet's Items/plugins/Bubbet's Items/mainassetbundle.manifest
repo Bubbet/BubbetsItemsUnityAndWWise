@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4250240842
+CRC: 1363841054
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c6340fb3d2e7c6662fe60bbee5013d31
+    Hash: 0dab39bcc598b776b89eaefbc1f32b73
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8eb94f71d7a44f26859c0fa7960f263e
@@ -130,6 +130,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/RecursionBulletsMaterial.mat
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/shiftedQuartzDiffuse.png
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/CisternMat.mat
+- Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/RepulsionPlatemk2.prefab
 - Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/ItemDefRepulsionPlateMk2.asset
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/WLCam.png
 - Assets/BubbetsItems/Assets/Items/Hourglass/SandFluidShader.shader
@@ -154,6 +155,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/EquipmentDefWildlifeCamera.asset
 - Assets/BubbetsItems/Assets/Items/Torturer/ItemDefTorturer.asset
 - Assets/BubbetsItems/Assets/LogBookGraph.prefab
+- Assets/BubbetsItems/Assets/Items/EscapePlan/EscapePlan.prefab
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/ItemDefRecursionBullets.asset
 - Assets/BubbetsItems/Assets/Items/EscapePlan/Plan128.png
 - Assets/BubbetsItems/Assets/Items/Torturer/TorturerUpdatedShader.shader
