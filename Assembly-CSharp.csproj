@@ -76,6 +76,12 @@
  <Reference Include="ThunderKit.Thunderstore">
  <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/ThunderKit.Thunderstore.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.RenderPipelines.Core.Editor">
+ <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.Core.Runtime">
+ <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
@@ -94,11 +100,20 @@
  <Reference Include="Unity.Rider.Editor">
  <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+ <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+ </Reference>
  <Reference Include="ThunderKit.Core">
  <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/ThunderKit.Core.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ScriptableBuildPipeline">
  <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.ScriptableBuildPipeline.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ShaderGraph.Editor">
+ <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+ <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
@@ -108,21 +123,6 @@
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="Unity.RenderPipelines.Core.Editor">
- <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.RenderPipelines.Core.Runtime">
- <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
- <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
- </Reference>
- <Reference Include="Unity.ShaderGraph.Editor">
- <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
- <HintPath>I:/GameRips/Titanfall2/PostCum2Modding/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>D:/Program Files/Unity/2019.4.26f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

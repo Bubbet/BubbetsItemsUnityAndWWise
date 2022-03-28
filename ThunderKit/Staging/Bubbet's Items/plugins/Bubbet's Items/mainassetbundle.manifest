@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1363841054
+CRC: 450037157
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0dab39bcc598b776b89eaefbc1f32b73
+    Hash: 9a7e361ce8220062803800b92ac8bfb1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8eb94f71d7a44f26859c0fa7960f263e
+    Hash: 19f92307cad784ec934383e152f088aa
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,13 +36,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 488236779, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
+  Script: {fileID: 372142912, guid: d382a022563c7517aadbc92ca1060016, type: 3}
+- Class: 114
+  Script: {fileID: 1985007777, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
   Script: {fileID: 1929002847, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
 - Class: 114
   Script: {fileID: 511512695, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
-- Class: 114
-  Script: {fileID: 372142912, guid: d382a022563c7517aadbc92ca1060016, type: 3}
 - Class: 114
   Script: {fileID: -1783169300, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
@@ -52,11 +54,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1512808244, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
-  Script: {fileID: 1985007777, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
-- Class: 114
   Script: {fileID: -662483879, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
 - Class: 114
   Script: {fileID: -1548970870, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+- Class: 114
+  Script: {fileID: 1085696314, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+- Class: 114
+  Script: {fileID: -1565516458, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
 - Class: 114
   Script: {fileID: 209865009, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
 - Class: 114
@@ -65,10 +69,6 @@ ClassTypes:
   Script: {fileID: -1474783733, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
 - Class: 114
   Script: {fileID: 1684185445, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
-- Class: 114
-  Script: {fileID: -1565516458, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
-- Class: 114
-  Script: {fileID: 1085696314, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 137
@@ -93,6 +93,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/EscapePlan/WoodMaterial.mat
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionBullets.png
 - Assets/BubbetsItems/Assets/Items/EscapePlan/ItemDefEscapePlan.asset
+- Assets/BubbetsItems/Assets/Items/AcidSoakedBlindfold/acidSoakedBlindfoldRender-1.png
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/BuffDefRecursionBullets.asset
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionShellsDiffuse.png
 - Assets/BubbetsItems/Assets/Bandolier/TrailShader.shader
@@ -109,6 +110,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/CameraTarget.png
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/CameraIndicator.prefab
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/CameraTexture.png
+- Assets/BubbetsItems/Assets/Items/AcidSoakedBlindfold/AcidSoakedBlindfoldPickup.prefab
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/zealotryEmbraceEmission.png
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/ShiftedQuartzPickup.prefab
 - Assets/BubbetsItems/Assets/Equipment/BrokenClock/Clock.prefab
@@ -127,6 +129,8 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/Hourglass/Hourglass.prefab
 - Assets/BubbetsItems/Assets/Bandolier/BandolierOrbShader.shader
 - Assets/BubbetsItems/Assets/Items/EscapePlan/BuffDefEscapePlan.asset
+- Assets/BubbetsItems/Assets/Items/AcidSoakedBlindfold/acidSoakedBlindfold.fbx
+- Assets/BubbetsItems/Assets/Items/AcidSoakedBlindfold/acidSoakedBlindfoldDiffuse.png
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/RecursionBulletsMaterial.mat
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/shiftedQuartzDiffuse.png
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/CisternMat.mat
@@ -144,6 +148,8 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/zealotryEmbrace.fbx
 - Assets/BubbetsItems/Assets/Items/JelliedSoles/GEMO_JelliedSoles.png
 - Assets/BubbetsItems/Assets/Equipment/LunarFlipHealthAndDamage/EquipmentDefLunarFlipHealingAndDamage.asset
+- Assets/BubbetsItems/Assets/Items/AcidSoakedBlindfold/acidSoakedBlindfoldEmission.png
+- Assets/BubbetsItems/Assets/Items/AcidSoakedBlindfold/ItemDefAcidSoakedBlindfold.asset
 - Assets/BubbetsItems/Assets/Bandolier/BandolierOrbMaterial.mat
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/RadiusMaterial.mat
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/ScrapBox.png
@@ -158,6 +164,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/EscapePlan/EscapePlan.prefab
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/ItemDefRecursionBullets.asset
 - Assets/BubbetsItems/Assets/Items/EscapePlan/Plan128.png
+- Assets/BubbetsItems/Assets/Items/AcidSoakedBlindfold/acidSoakedBlindfold.prefab
 - Assets/BubbetsItems/Assets/Items/Torturer/TorturerUpdatedShader.shader
 - Assets/BubbetsItems/Assets/Items/Hourglass/Pain.shader
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/GEMO_shiftedQuartzRender.png
@@ -187,6 +194,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/Materials/shiftedQuartzDiffuse 1.mat
 - Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/RepulsionPlatemk2.fbx
 - Assets/BubbetsItems/Assets/Items/Hourglass/HourGlassPickup.prefab
+- Assets/BubbetsItems/Assets/Items/AcidSoakedBlindfold/AcidSoakedBlindfoldMat.mat
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/submergedCistern.fbx
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/voidscrap.prefab
 - Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/Plate128.png
