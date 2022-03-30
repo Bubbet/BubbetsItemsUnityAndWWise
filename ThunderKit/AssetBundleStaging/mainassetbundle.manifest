@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2052578223
+CRC: 247906468
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 78ca98835ce7e2c55c9ca4d60dd33f9a
+    Hash: 4f8730f7f80db10de79faaec04b01cc7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 19f92307cad784ec934383e152f088aa
@@ -96,6 +96,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/EscapePlan/ItemDefEscapePlan.asset
 - Assets/BubbetsItems/Assets/Items/AcidSoakedBlindfold/acidSoakedBlindfoldRender-1.png
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/BuffDefRecursionBullets.asset
+- Assets/BubbetsItems/Assets/Items/BunnyFoot/ItemDefBunnyFoot.asset
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionShellsDiffuse.png
 - Assets/BubbetsItems/Assets/Bandolier/TrailShader.shader
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/voidscrap.fbx
@@ -105,12 +106,14 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/GEMO_ZealotryEmbrace.png
 - Assets/BubbetsItems/Assets/Items/Torturer/TorturerMaterial.mat
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/VoidScrapMaterial.mat
+- Assets/BubbetsItems/Assets/Items/BunnyFoot/foot.fbx
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/SubmersiveCisternTetherVfx.prefab
 - Assets/BubbetsItems/Assets/Equipment/BrokenClock/BrokenClockPickup.prefab
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/ItemDefZealotryEmbrace.asset
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/CameraTarget.png
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/CameraIndicator.prefab
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/CameraTexture.png
+- Assets/BubbetsItems/Assets/Items/BunnyFoot/BunnyFootPickup.prefab
 - Assets/BubbetsItems/Assets/Items/AcidSoakedBlindfold/AcidSoakedBlindfoldPickup.prefab
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/zealotryEmbraceEmission.png
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/ShiftedQuartzPickup.prefab
@@ -120,6 +123,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/Hourglass/Hourglass128.png
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/VoidEffect.mat
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionBullets.fbx
+- Assets/BubbetsItems/Assets/Items/BunnyFoot/Materials/FootTex.mat
 - Assets/BubbetsItems/Assets/Items/ScintillatingJet/scintillatingJet.fbx
 - Assets/BubbetsItems/Assets/Items/Hourglass/Hourglass.fbx
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/Materials/transparentShifted.mat
@@ -182,10 +186,12 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/Rec.png
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/ItemDefShiftedQuartz.asset
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/ZealotryEmbracePickup.prefab
+- Assets/BubbetsItems/Assets/Items/BunnyFoot/FootTex.png
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/EquipmentDefSepiaElite.asset
 - Assets/BubbetsItems/Assets/Items/JelliedSoles/jelliedSoles.fbx
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/Camera.fbx
 - Assets/BubbetsItems/Assets/Items/ScintillatingJet/ScintillatingBuffIcon.png
+- Assets/BubbetsItems/Assets/Items/BunnyFoot/foot.prefab
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/RecursionBulletsPickup.prefab
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/Materials/Crystal Shader.shader
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/GEMO_SubmergedCistern.png
