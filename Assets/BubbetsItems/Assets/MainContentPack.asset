@@ -36,6 +36,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 32d9d6c8f88ab5846add30c6d523e75b, type: 2}
   - {fileID: 11400000, guid: e07bcb7906c08504b9bf172e16d47553, type: 2}
   - {fileID: 11400000, guid: 55718987c83c5ff4687d1d1028782aa1, type: 2}
+  - {fileID: 11400000, guid: 86df22dd419fc164183d7b875f902818, type: 2}
   equipmentDefs:
   - {fileID: 11400000, guid: 505b4afdd73f4e449bcf5758c79909e6, type: 2}
   - {fileID: 11400000, guid: 8a4386d8dc5407a4aa80f174e1eb83ca, type: 2}
@@ -45,6 +46,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 3907cc15d8ef81245ac34499b169bda9, type: 2}
   - {fileID: 11400000, guid: 6dca2e40e868d684eb221b44dec8c574, type: 2}
   - {fileID: 11400000, guid: 9c5b1431f3ae29e448459e763b62a38e, type: 2}
+  - {fileID: 11400000, guid: 93271af9d60ce574bb1d279966acf82c, type: 2}
   eliteDefs:
   - {fileID: 11400000, guid: 8041c2f44dfa49346aa7f61d160f9c18, type: 2}
   unlockableDefs: []
