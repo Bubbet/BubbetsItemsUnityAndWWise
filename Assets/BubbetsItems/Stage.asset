@@ -1,5 +1,28 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2060689803589192920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03063c7a6ec04cc4c82c75cf9bcc8db8, type: 3}
+  m_Name: Copy
+  m_EditorClassIdentifier: 
+  Errored: 0
+  ErrorMessage: 
+  ErrorStacktrace: 
+  Active: 1
+  PerManifest: 0
+  ExcludedManifests: []
+  Recursive: 0
+  SourceRequired: 1
+  EstablishDestination: 1
+  Source: I:\GameRips\Titanfall2\PostCum2Modding\ThunderKit\AssetBundleStaging\mainassetbundle
+  Destination: C:\Users\Bubbet\Desktop\Dev\Programming\C#\Risk Of Rain Mods\BubbetsItems\BuiltObjects\mainassetbundle
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17,6 +40,7 @@ MonoBehaviour:
   - {fileID: 114643622350610336}
   - {fileID: 114537630434205182}
   - {fileID: 114366308522735304}
+  - {fileID: -2060689803589192920}
   manifest: {fileID: 11400000, guid: da759c27f0f1a8aac1e030511325ed32, type: 2}
 --- !u!114 &114366308522735304
 MonoBehaviour:
