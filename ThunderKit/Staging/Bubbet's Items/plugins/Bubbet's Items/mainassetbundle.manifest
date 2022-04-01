@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 247906468
+CRC: 2227873147
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4f8730f7f80db10de79faaec04b01cc7
+    Hash: d6e0261b3a68e07e9cb4580bd2c694d1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 19f92307cad784ec934383e152f088aa
@@ -146,6 +146,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/Hourglass/SandFluidShader.shader
 - Assets/BubbetsItems/Assets/Items/JelliedSoles/ItemDefJelliedSoles.asset
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/ItemDefVoidJunkToScrapTier1.asset
+- Assets/BubbetsItems/Assets/Items/VoidHourglass/ItemDefVoidHourglass.asset
 - Assets/BubbetsItems/Assets/Bandolier/AmmoPickupOrb.prefab
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/SubmergingCisternPickup.prefab
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/CisternTransparent.mat
@@ -166,7 +167,9 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/BeltMaterial.mat
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/ItemDefSubmergingCistern.asset
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/EquipmentDefWildlifeCamera.asset
+- Assets/BubbetsItems/Assets/Items/BunnyFoot/bhop.png
 - Assets/BubbetsItems/Assets/Items/Torturer/ItemDefTorturer.asset
+- Assets/BubbetsItems/Assets/Items/VoidSlug/ItemDefVoidSlug.asset
 - Assets/BubbetsItems/Assets/Items/ScintillatingJet/ScintillatingJetPickup.prefab
 - Assets/BubbetsItems/Assets/LogBookGraph.prefab
 - Assets/BubbetsItems/Assets/Items/EscapePlan/EscapePlan.prefab
