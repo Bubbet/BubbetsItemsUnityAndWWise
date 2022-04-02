@@ -40,6 +40,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 75c049513135be24a82b480412728fbb, type: 2}
   - {fileID: 11400000, guid: 9b5a2a39e4bbd8140869ad47a067ca4e, type: 2}
   - {fileID: 11400000, guid: 51bfdc468d477f541a6bb3a0ec071bdb, type: 2}
+  - {fileID: 11400000, guid: 2a96ee32250a89a4f98876b20d0a5602, type: 2}
   equipmentDefs:
   - {fileID: 11400000, guid: 505b4afdd73f4e449bcf5758c79909e6, type: 2}
   - {fileID: 11400000, guid: 8a4386d8dc5407a4aa80f174e1eb83ca, type: 2}

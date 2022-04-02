@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2227873147
+CRC: 2369753512
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d6e0261b3a68e07e9cb4580bd2c694d1
+    Hash: d9d9c3e6f939e570f0db83d34d0321a9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 19f92307cad784ec934383e152f088aa
@@ -101,6 +101,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Bandolier/TrailShader.shader
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/voidscrap.fbx
 - Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/Belt.png
+- Assets/BubbetsItems/Assets/Items/ProcCoefficientIncrease/ItemDefProcCoefficientIncrease.asset
 - Assets/BubbetsItems/Assets/Items/JelliedSoles/JelliedSolesMat.mat
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionBullets.prefab
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/GEMO_ZealotryEmbrace.png
