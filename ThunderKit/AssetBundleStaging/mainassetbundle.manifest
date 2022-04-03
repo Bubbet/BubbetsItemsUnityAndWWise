@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2369753512
+CRC: 2289745543
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d9d9c3e6f939e570f0db83d34d0321a9
+    Hash: 9e9526698c7cae52598a19c0fe41eeb6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 19f92307cad784ec934383e152f088aa
@@ -228,6 +228,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/voidscrap.png
 - Assets/BubbetsItems/Assets/Equipment/BrokenClock/BrokenClock.png
 - Assets/BubbetsItems/Assets/Items/Torturer/Mask.png
+- Assets/BubbetsItems/Assets/Items/DecreaseBarrierDecay/ItemDefDecreaseBarrierDecay.asset
 - Assets/BubbetsItems/Assets/Items/Hourglass/ItemDefHourglass.asset
 - Assets/BubbetsItems/Assets/Items/Torturer/TorturerPickup.prefab
 - Assets/BubbetsItems/Assets/Items/ScintillatingJet/scintillatingJetOutline.png
