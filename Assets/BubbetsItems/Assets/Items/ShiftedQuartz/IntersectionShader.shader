@@ -6,6 +6,7 @@ Shader "Unlit/IntersectionShader"
     {
         _Color("Color", Color) = (1,1,1,1)
         _Color2("Color2", Color) = (1,1,1,1)
+        _Color2BaseAlpha("Color2BaseAlpha", Range(0, 1)) = 0
         _ColorMix("Color Mix", Range(0, 1)) = 0
         _FadeLength("Fade Length", Range(0, 2)) = 0.15
     }
@@ -97,6 +98,7 @@ float pNoise(float2 p, int res){
             sampler2D _CameraDepthTexture;
             float4 _Color;
             float4 _Color2;
+            float _Color2BaseAlpha;
            
             float _FadeLength;
             float _ColorMix;
@@ -114,7 +116,7 @@ float pNoise(float2 p, int res){
 
 
                 float4 col = lerp(_Color, _Color2, _ColorMix);
-                col.a *= intersect;
+                col.a *= intersect + _Color2BaseAlpha * _ColorMix;
                 col *= pNoise(vpos.xy * 0.005 + _Time.y * 0.1, 2) * 0.5 + 0.5;
                 //col.a = _Color.a;
                 //col.a = pow(intersect, 4);
