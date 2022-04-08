@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2289745543
+CRC: 4019418773
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9e9526698c7cae52598a19c0fe41eeb6
+    Hash: b0e5551418438f81092704398afac847
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 19f92307cad784ec934383e152f088aa
+    Hash: dd49054b7cf26c8e341759e0b88374e3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,7 +25,11 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
 - Class: 90
+  Script: {instanceID: 0}
+- Class: 91
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
@@ -69,6 +73,8 @@ ClassTypes:
   Script: {fileID: -1474783733, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
 - Class: 114
   Script: {fileID: 1684185445, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
+- Class: 114
+  Script: {fileID: 969251441, guid: 49e2459ccc972c44798f5778aa83aa79, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 137
@@ -97,6 +103,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/AcidSoakedBlindfold/acidSoakedBlindfoldRender-1.png
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/BuffDefRecursionBullets.asset
 - Assets/BubbetsItems/Assets/Items/BunnyFoot/ItemDefBunnyFoot.asset
+- Assets/BubbetsItems/Assets/Items/VoidSlug/VoidSlugPickup.prefab
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionShellsDiffuse.png
 - Assets/BubbetsItems/Assets/Bandolier/TrailShader.shader
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/voidscrap.fbx
@@ -105,6 +112,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/JelliedSoles/JelliedSolesMat.mat
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionBullets.prefab
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/GEMO_ZealotryEmbrace.png
+- Assets/BubbetsItems/Assets/Items/VoidSlug/adrenalineSproutArmature_itemDisplayPose.anim
 - Assets/BubbetsItems/Assets/Items/Torturer/TorturerMaterial.mat
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/VoidScrapMaterial.mat
 - Assets/BubbetsItems/Assets/Items/BunnyFoot/foot.fbx
@@ -125,6 +133,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/VoidEffect.mat
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/recursionBullets.fbx
 - Assets/BubbetsItems/Assets/Items/BunnyFoot/Materials/FootTex.mat
+- Assets/BubbetsItems/Assets/Items/VoidSlug/VoidSlugMat.mat
 - Assets/BubbetsItems/Assets/Items/ScintillatingJet/scintillatingJet.fbx
 - Assets/BubbetsItems/Assets/Items/Hourglass/Hourglass.fbx
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/Materials/transparentShifted.mat
@@ -146,11 +155,13 @@ Assets:
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/WLCam.png
 - Assets/BubbetsItems/Assets/Items/Hourglass/SandFluidShader.shader
 - Assets/BubbetsItems/Assets/Items/JelliedSoles/ItemDefJelliedSoles.asset
+- Assets/BubbetsItems/Assets/Items/VoidSlug/adrenalineSproutArmature_showAction.anim
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/ItemDefVoidJunkToScrapTier1.asset
 - Assets/BubbetsItems/Assets/Items/VoidHourglass/ItemDefVoidHourglass.asset
 - Assets/BubbetsItems/Assets/Bandolier/AmmoPickupOrb.prefab
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/SubmergingCisternPickup.prefab
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/CisternTransparent.mat
+- Assets/BubbetsItems/Assets/Items/VoidSlug/adrenalineSproutArmature_hideAction.anim
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/zealotryEmbrace.prefab
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/shiftedQuartz.prefab
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/zealotryEmbrace.fbx
@@ -164,6 +175,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/ScrapBox.png
 - Assets/BubbetsItems/Assets/Items/JelliedSoles/jelliedSolesDiffuse.png
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/submergedCisternTexture.png
+- Assets/BubbetsItems/Assets/Items/VoidSlug/adrenalineSprout.prefab
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/SubmersiveCisternNetworkBodyAttachment.prefab
 - Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/BeltMaterial.mat
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/ItemDefSubmergingCistern.asset
@@ -199,16 +211,21 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/RecursionBullets/RecursionBulletsPickup.prefab
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/Materials/Crystal Shader.shader
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/GEMO_SubmergedCistern.png
+- Assets/BubbetsItems/Assets/Items/VoidSlug/Void Slug Controller.controller
 - Assets/BubbetsItems/Assets/Items/SubmergingCistern/submergedCisternEmission.png
+- Assets/BubbetsItems/Assets/Items/VoidSlug/adrenalineSproutNormal.png
 - Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/PlateMaterial.mat
 - Assets/BubbetsItems/Assets/Items/ScintillatingJet/scintillatingJetNormal.png
 - Assets/BubbetsItems/Assets/Items/Torturer/TorturerShader.shader
 - Assets/BubbetsItems/Assets/Items/JelliedSoles/jelliedSoles.prefab
+- Assets/BubbetsItems/Assets/Items/VoidSlug/adrenalineSprout.fbx
+- Assets/BubbetsItems/Assets/Items/VoidSlug/Void Slug Pickup.controller
 - Assets/BubbetsItems/Assets/Items/VoidScrapTier3/ItemDefVoidScrapTier3.asset
 - Assets/BubbetsItems/Assets/Equipment/BrokenClock/ClockTexture.png
 - Assets/BubbetsItems/Assets/Items/EscapePlan/EscapePlanPickup.prefab
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/IntersectionShader.shader
 - Assets/BubbetsItems/Assets/Items/ZealotryEmbrace/ZealotryEmbraceMaterial.mat
+- Assets/BubbetsItems/Assets/Items/VoidSlug/adrenalineSproutArmature_appearIdle.anim
 - Assets/BubbetsItems/Assets/Items/ShiftedQuartz/Materials/shiftedQuartzDiffuse 1.mat
 - Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/RepulsionPlatemk2.fbx
 - Assets/BubbetsItems/Assets/Items/Hourglass/HourGlassPickup.prefab
@@ -217,6 +234,7 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/voidscrap.prefab
 - Assets/BubbetsItems/Assets/Items/RepulsionPlateMk2/Plate128.png
 - Assets/BubbetsItems/Assets/Items/Torturer/Torturer.fbx
+- Assets/BubbetsItems/Assets/Items/VoidSlug/adrenalineSproutEmission.png
 - Assets/BubbetsItems/Assets/Items/ScintillatingJet/ItemDefScintillatingJet.asset
 - Assets/BubbetsItems/Assets/Items/EscapePlan/EscapePlan.fbx
 - Assets/BubbetsItems/Assets/Items/Hourglass/SandMaterial.mat
@@ -224,7 +242,9 @@ Assets:
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/VoidScrapShader.shader
 - Assets/BubbetsItems/Assets/Items/Torturer/Torturer.prefab
 - Assets/BubbetsItems/Assets/Equipment/WildLifeCamera/SepiaMaterial.mat
+- Assets/BubbetsItems/Assets/Items/VoidSlug/adrenalineSproutDiffuse.png
 - Assets/BubbetsItems/Assets/Equipment/BrokenClock/Materials/ClockTexture.mat
+- Assets/BubbetsItems/Assets/Items/VoidSlug/voidslugicon.png
 - Assets/BubbetsItems/Assets/Items/VoidJunkToScrapTier1/voidscrap.png
 - Assets/BubbetsItems/Assets/Equipment/BrokenClock/BrokenClock.png
 - Assets/BubbetsItems/Assets/Items/Torturer/Mask.png
